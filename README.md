@@ -1,6 +1,6 @@
 ### Hi, I'm Michael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am currently learning Front-End Web Development
+I possess the rare ability to turn endorphins into clean, efficient code. It's a superpower, really. Just don't ask me to do it without my morning ride.
 
 #### Languages and tools I work with:
 
@@ -13,11 +13,7 @@ I am currently learning Front-End Web Development
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-
-
 <br />
 
-- 📍 &nbsp;	Current location: Loughborough, UK
-- 💬 &nbsp;	Ask me anything, I am happy to help
-- 📧 &nbsp;	How to reach me: [LinkedIn](https://www.linkedin.com/in/mdyeates/) | [Instagram](https://www.instagram.com/michael.yeates)
+- 💬 &nbsp;	Lets talk tech and build something awesome together!
+- 📧 &nbsp;	Connect with me on [LinkedIn](https://www.linkedin.com/in/mdyeates/) | [Instagram](https://www.instagram.com/michael.yeates)
