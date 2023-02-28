@@ -1,6 +1,6 @@
 ### Hi, I'm Michael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I possess the rare ability to turn endorphins into clean, efficient code. It's a superpower, really. Just don't ask me to do it without my morning ride.
+I possess the rare ability to turn endorphins into clean, efficient code. It's a superpower, really. Just don't ask me to do it without my morning ride 🚴🏼
 
 I'm always looking for ways to improve my coding skills and currently, I'm focusing on learning backend technologies.
 
