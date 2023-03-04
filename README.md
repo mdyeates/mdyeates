@@ -21,5 +21,7 @@ I possess the rare ability to turn endorphins into clean, efficient code. It's a
 
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Michael's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mdyeates&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=74eabc" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Michael's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyeates&langs_count=8&layout=compact&hide_border=false&bg_color=0d1117&title_color=74eabc" height="192px"/></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Michael's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mdyeates&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=74eabc" height="192px"/></a>
+
