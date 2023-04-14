@@ -1,10 +1,8 @@
 ### Hi, I'm Michael <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=15&duration=4000&pause=2000&color=74eabc&background=FFFFFF00&lines=I'm+a+Front-End+Web+Developer)](https://git.io/typing-svg)<br/>
-I possess the rare ability to turn endorphins into clean, efficient code. It's a superpower, really. Just don't ask me to do it without my morning ride 🚴🏼
 
 - 🌐 &nbsp; View my [Portfolio](https://michaelyeates.co.uk)
-- 🌱 &nbsp; I’m currently learning Full-Stack Web Development
-- 💬 &nbsp;	Connect with me on [LinkedIn](https://www.linkedin.com/in/mdyeates/) | [Instagram](https://www.instagram.com/michael.yeates)
+- 🌱 &nbsp; I’m currently learning TypeScript
+- 💬 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/mdyeates/) | [Instagram](https://www.instagram.com/michael.yeates)
 
 #### Languages and tools I work with:
 
